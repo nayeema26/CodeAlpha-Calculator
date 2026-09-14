@@ -36,3 +36,7 @@ The main objective of this project was to build a functional calculator while im
 1. Clone the repository:
    ```bash
    git clone https://github.com/your-username/your-repository-name.git
+
+## 🌐 Live Demo
+
+[🧮 Open Calculator](https://YOUR-USERNAME.github.io/CodeAlpha-Internship/)
