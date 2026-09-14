@@ -39,4 +39,4 @@ The main objective of this project was to build a functional calculator while im
 
 ## 🌐 Live Demo
 
-[🧮 Open Calculator](https://YOUR-USERNAME.github.io/CodeAlpha-Internship/)
+[🧮 Open Calculator](https://nayeema26.github.io/CodeAlpha-Calculator/)
